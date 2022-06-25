@@ -25,7 +25,7 @@
 
 1.将本项目fork至自己仓库修改`Deploy to Heroku`按键指向地址为自己仓库地址
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/DaoChen6/IF-XTW) 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/githubnly/bbbj777777) 
 
 2.点击上面紫色`Deploy to Heroku`，会跳转到heroku app创建页面，应用程序名无需填写也能创建，名字会由heroku随机生成，选择节点（美国或者欧洲），新用户只需要自定义UUID码和CADDYIndexPage（参考：[Caddy主页配置](https://github.com/DaoChen6/IF-XTW/blob/master/README.md#5caddy%E4%B8%BB%E9%A1%B5%E9%85%8D%E7%BD%AE))，其他建议保持默认，点击下面deploy，几秒后搞定！   
 
@@ -194,16 +194,3 @@ addEventListener(
     }
 )
 ```
-
-### 原作者项目地址：https://github.com/mixool/xrayku
-
-# 鸣谢
-
-- [Xrayku](https://github.com/mixool/xrayku)
-- [Project V](https://github.com/v2fly/v2ray-core.git)
-- [Project X](https://github.com/XTLS/Xray-core.git)
-- [HeroKu](https://heroku.com)
-- [heroku-vless](https://github.com/DanyTPG/heroku-vless.git)
-- [Better Cloudflare IP](https://github.com/badafans/better-cloudflare-ip.git)
-- [CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest.git)
-- [CloudflarespeedTest-Rust](https://github.com/lixiang810/CloudflareSpeedTest-Rust.git)
